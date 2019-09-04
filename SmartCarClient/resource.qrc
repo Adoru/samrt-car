@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/car.png</file>
+        <file>image/car2.png</file>
+        <file>image/choosed.png</file>
+        <file>image/goDown.png</file>
+        <file>image/goDownHover.png</file>
+        <file>image/goLeft.png</file>
+        <file>image/goLeftHover.png</file>
+        <file>image/goRight.png</file>
+        <file>image/goRightHover.png</file>
+        <file>image/goToTarget.png</file>
+        <file>image/goUp.png</file>
+        <file>image/goUpHover.png</file>
+        <file>image/hide.png</file>
+        <file>image/map.png</file>
+        <file>image/nochoosed.png</file>
+        <file>image/remove.png</file>
+        <file>image/reset.png</file>
+        <file>image/resetHover.png</file>
+        <file>image/send.png</file>
+        <file>image/show.png</file>
+        <file>image/target.png</file>
+        <file>image/light1.png</file>
+        <file>image/light2.png</file>
+    </qresource>
+</RCC>
